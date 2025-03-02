@@ -1,0 +1,4 @@
+The connectors for the sensors are all wrong because I thought the sensors would be powered with another source (why did I think this?)
+Brain fried after catching buses/MTR for 12 hours straight
+
+Most connectors should be 1x03 instead of 1x02, only chose 1x02 because a single pin isn't sensible imo

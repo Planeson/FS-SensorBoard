@@ -1,0 +1,18 @@
+TJA1051 input 5V
+ADC Analog-Digital Convert
+IIC -> TI I2C
+
+
+ADC1
+LV Bat Volt
+Water Temp
+Flow Sensor
+LV Batt temp
+Brake temp
+Brake press
+
+ADC2
+Dampers * 4
+
+I2C
+Accelerometer
